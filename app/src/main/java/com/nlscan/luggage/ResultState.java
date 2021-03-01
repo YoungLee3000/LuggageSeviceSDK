@@ -14,6 +14,7 @@ public class ResultState {
     public static final String PREDICT_BOX_LAY_RIGHT = "box_lay_right";
     public static final String PREDICT_BOX_LAY_WRONG = "box_lay_wrong";
     public static final String PREDICT_BOX_BAN = "box_ban";
+    public static final String PREDICT_BOX_ACCESS = "box_access";
     public static final String PREDICT_BOX_LACK = "box_lack";
 
 
